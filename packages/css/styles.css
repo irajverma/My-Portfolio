@@ -520,35 +520,21 @@ img {
   width: 90%;
 }
 
-.skills__css {
+.skills__css, .skills__react, skills__node {
   width: 80%;
 }
 
-.skills__js {
+.skills__js, .skills__tab {
   width: 60%;
-}
-
-.skills__wordpress {
-  width: 70%;
 }
 
 .skills__python {
-  width: 90%;
-}
-
-.skills__tab {
-  width: 60%;
+  width: 100%;
 }
 
 .skills__sql {
   width: 70%;
 }
-
-.skills__google {
-  width: 70%;
-}
-
-
 
 .skills__close .skills__list {
   height: 0;
